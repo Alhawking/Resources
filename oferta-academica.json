@@ -1,142 +1,142 @@
 [
   {
-    "Value": "ACTUARÍA",
-    "Label": "ACTUARÍA"
+    "value": "ACTUARÍA",
+    "label": "ACTUARÍA"
   },
   {
-    "Value": "ADMINISTRACIÓN DE EMPRESAS",
-    "Label": "ADMINISTRACIÓN DE EMPRESAS"
+    "value": "ADMINISTRACIÓN DE EMPRESAS",
+    "label": "ADMINISTRACIÓN DE EMPRESAS"
   },
   {
-    "Value": "ADMINISTRACIÓN DE LA HOSPITALIDAD",
-    "Label": "ADMINISTRACIÓN DE LA HOSPITALIDAD"
+    "value": "ADMINISTRACIÓN DE LA HOSPITALIDAD",
+    "label": "ADMINISTRACIÓN DE LA HOSPITALIDAD"
   },
   {
-    "Value": "ARQUITECTURA",
-    "Label": "ARQUITECTURA"
+    "value": "ARQUITECTURA",
+    "label": "ARQUITECTURA"
   },
   {
-    "Value": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA",
-    "Label": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA"
+    "value": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA",
+    "label": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA"
   },
   {
-    "Value": "CIENCIAS TEOLÓGICAS",
-    "Label": "CIENCIAS TEOLÓGICAS"
+    "value": "CIENCIAS TEOLÓGICAS",
+    "label": "CIENCIAS TEOLÓGICAS"
   },
   {
-    "Value": "COMUNICACIÓN",
-    "Label": "COMUNICACIÓN"
+    "value": "COMUNICACIÓN",
+    "label": "COMUNICACIÓN"
   },
   {
-    "Value": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS",
-    "Label": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS"
+    "value": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS",
+    "label": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS"
   },
   {
-    "Value": "DERECHO",
-    "Label": "DERECHO"
+    "value": "DERECHO",
+    "label": "DERECHO"
   },
   {
-    "Value": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA",
-    "Label": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA"
+    "value": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA",
+    "label": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA"
   },
   {
-    "Value": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES",
-    "Label": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES"
+    "value": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES",
+    "label": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES"
   },
   {
-    "Value": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS",
-    "Label": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS"
+    "value": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS",
+    "label": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS"
   },
   {
-    "Value": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA",
-    "Label": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA"
+    "value": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA",
+    "label": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA"
   },
   {
-    "Value": "ECONOMÍA",
-    "Label": "ECONOMÍA"
+    "value": "ECONOMÍA",
+    "label": "ECONOMÍA"
   },
   {
-    "Value": "FILOSOFÍA",
-    "Label": "FILOSOFÍA"
+    "value": "FILOSOFÍA",
+    "label": "FILOSOFÍA"
   },
   {
-    "Value": "FINANZAS",
-    "Label": "FINANZAS"
+    "value": "FINANZAS",
+    "label": "FINANZAS"
   },
   {
-    "Value": "HISTORIA",
-    "Label": "HISTORIA"
+    "value": "HISTORIA",
+    "label": "HISTORIA"
   },
   {
-    "Value": "HISTORIA DEL ARTE",
-    "Label": "HISTORIA DEL ARTE"
+    "value": "HISTORIA DEL ARTE",
+    "label": "HISTORIA DEL ARTE"
   },
   {
-    "Value": "INGENIERÍA BIOMÉDICA",
-    "Label": "INGENIERÍA BIOMÉDICA"
+    "value": "INGENIERÍA BIOMÉDICA",
+    "label": "INGENIERÍA BIOMÉDICA"
   },
   {
-    "Value": "INGENIERÍA CIVIL",
-    "Label": "INGENIERÍA CIVIL"
+    "value": "INGENIERÍA CIVIL",
+    "label": "INGENIERÍA CIVIL"
   },
   {
-    "Value": "INGENIERÍA DE ALIMENTOS",
-    "Label": "INGENIERÍA DE ALIMENTOS"
+    "value": "INGENIERÍA DE ALIMENTOS",
+    "label": "INGENIERÍA DE ALIMENTOS"
   },
   {
-    "Value": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES",
-    "Label": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES"
+    "value": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES",
+    "label": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES"
   },
   {
-    "Value": "INGENIERÍA FÍSICA",
-    "Label": "INGENIERÍA FÍSICA"
+    "value": "INGENIERÍA FÍSICA",
+    "label": "INGENIERÍA FÍSICA"
   },
   {
-    "Value": "INGENIERÍA INDUSTRIAL",
-    "Label": "INGENIERÍA INDUSTRIAL"
+    "value": "INGENIERÍA INDUSTRIAL",
+    "label": "INGENIERÍA INDUSTRIAL"
   },
   {
-    "Value": "INGENIERÍA MECÁNICA Y ELÉCTRICA",
-    "Label": "INGENIERÍA MECÁNICA Y ELÉCTRICA"
+    "value": "INGENIERÍA MECÁNICA Y ELÉCTRICA",
+    "label": "INGENIERÍA MECÁNICA Y ELÉCTRICA"
   },
   {
-    "Value": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS",
-    "Label": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS"
+    "value": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS",
+    "label": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS"
   },
   {
-    "Value": "INGENIERÍA QUÍMICA",
-    "Label": "INGENIERÍA QUÍMICA"
+    "value": "INGENIERÍA QUÍMICA",
+    "label": "INGENIERÍA QUÍMICA"
   },
   {
-    "Value": "LITERATURA LATINOAMERICANA",
-    "Label": "LITERATURA LATINOAMERICANA"
+    "value": "LITERATURA LATINOAMERICANA",
+    "label": "LITERATURA LATINOAMERICANA"
   },
   {
-    "Value": "MERCADOTECNIA",
-    "Label": "MERCADOTECNIA"
+    "value": "MERCADOTECNIA",
+    "label": "MERCADOTECNIA"
   },
   {
-    "Value": "NEGOCIOS GLOBALES",
-    "Label": "NEGOCIOS GLOBALES"
+    "value": "NEGOCIOS GLOBALES",
+    "label": "NEGOCIOS GLOBALES"
   },
   {
-    "Value": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS",
-    "Label": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS"
+    "value": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS",
+    "label": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS"
   },
   {
-    "Value": "PEDAGOGÍA",
-    "Label": "PEDAGOGÍA"
+    "value": "PEDAGOGÍA",
+    "label": "PEDAGOGÍA"
   },
   {
-    "Value": "PSICOLOGÍA",
-    "Label": "PSICOLOGÍA"
+    "value": "PSICOLOGÍA",
+    "label": "PSICOLOGÍA"
   },
   {
-    "Value": "RELACIONES INTERNACIONALES",
-    "Label": "RELACIONES INTERNACIONALES"
+    "value": "RELACIONES INTERNACIONALES",
+    "label": "RELACIONES INTERNACIONALES"
   },
   {
-    "Value": "SUSTENTABILIDAD AMBIENTAL",
-    "Label": "SUSTENTABILIDAD AMBIENTAL"
+    "value": "SUSTENTABILIDAD AMBIENTAL",
+    "label": "SUSTENTABILIDAD AMBIENTAL"
   }
 ]
