@@ -1,71 +1,71 @@
 [
   {
     "value": "ACTUARÍA",
-    "label": "SUSTENTABILIDAD AMBIENTAL"
+    "label": "ACTUARÍA"
   },
   {
     "value": "ADMINISTRACIÓN DE EMPRESAS",
-    "label": "RELACIONES INTERNACIONALES"
+    "label": "ADMINISTRACIÓN DE EMPRESAS"
   },
   {
     "value": "ADMINISTRACIÓN DE LA HOSPITALIDAD",
-    "label": "PSICOLOGÍA"
+    "label": "ADMINISTRACIÓN DE LA HOSPITALIDAD"
   },
   {
     "value": "ARQUITECTURA",
-    "label": "PEDAGOGÍA"
+    "label": "ARQUITECTURA"
   },
   {
     "value": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA",
-    "label": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS"
+    "label": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA"
   },
   {
     "value": "CIENCIAS TEOLÓGICAS",
-    "label": "NEGOCIOS GLOBALES / ADMON DE NEGOCIOS INTERNACIONALES"
+    "label": "CIENCIAS TEOLÓGICAS"
   },
   {
     "value": "COMUNICACIÓN",
-    "label": "MERCADOTECNIA"
+    "label": "COMUNICACIÓN"
   },
   {
     "value": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS",
-    "label": "LITERATURA LATINOAMERICANA"
+    "label": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS"
   },
   {
     "value": "DERECHO",
-    "label": "INGENIERÍA QUÍMICA"
+    "label": "DERECHO"
   },
   {
     "value": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA",
-    "label": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS"
+    "label": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA / DISEÑO INTERACTIVO"
   },
   {
     "value": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES",
-    "label": "INGENIERÍA MECÁNICA Y ELÉCTRICA"
+    "label": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES"
   },
   {
     "value": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS",
-    "label": "INGENIERÍA INDUSTRIAL"
+    "label": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS / DISEÑO INDUSTRIAL"
   },
   {
     "value": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA",
-    "label": "INGENIERÍA FÍSICA"
+    "label": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA / DISEÑO GRÁFICO"
   },
   {
     "value": "ECONOMÍA",
-    "label": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES"
+    "label": "ECONOMÍA"
   },
   {
     "value": "FILOSOFÍA",
-    "label": "INGENIERÍA DE ALIMENTOS"
+    "label": "FILOSOFÍA"
   },
   {
     "value": "FINANZAS",
-    "label": "INGENIERÍA CIVIL"
+    "label": "FINANZAS"
   },
   {
     "value": "HISTORIA",
-    "label": "INGENIERÍA BIOMÉDICA"
+    "label": "HISTORIA"
   },
   {
     "value": "HISTORIA DEL ARTE",
@@ -73,70 +73,70 @@
   },
   {
     "value": "INGENIERÍA BIOMÉDICA",
-    "label": "HISTORIA"
+    "label": "INGENIERÍA BIOMÉDICA"
   },
   {
     "value": "INGENIERÍA CIVIL",
-    "label": "FINANZAS"
+    "label": "INGENIERÍA CIVIL"
   },
   {
     "value": "INGENIERÍA DE ALIMENTOS",
-    "label": "FILOSOFÍA"
+    "label": "INGENIERÍA DE ALIMENTOS"
   },
   {
     "value": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES",
-    "label": "ECONOMÍA"
+    "label": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES"
   },
   {
     "value": "INGENIERÍA FÍSICA",
-    "label": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA / DISEÑO GRÁFICO"
+    "label": "INGENIERÍA FÍSICA"
   },
   {
     "value": "INGENIERÍA INDUSTRIAL",
-    "label": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES"
+    "label": "INGENIERÍA INDUSTRIAL"
   },
   {
     "value": "INGENIERÍA MECÁNICA Y ELÉCTRICA",
-    "label": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA / DISEÑO INTERACTIVO"
+    "label": "INGENIERÍA MECÁNICA Y ELÉCTRICA"
   },
   {
     "value": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS",
-    "label": "DERECHO"
+    "label": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS"
   },
   {
     "value": "INGENIERÍA QUÍMICA",
-    "label": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS"
+    "label": "INGENIERÍA QUÍMICA"
   },
   {
     "value": "LITERATURA LATINOAMERICANA",
-    "label": "COMUNICACIÓN"
+    "label": "LITERATURA LATINOAMERICANA"
   },
   {
     "value": "MERCADOTECNIA",
-    "label": "CIENCIAS TEOLÓGICAS"
+    "label": "MERCADOTECNIA"
   },
   {
     "value": "NEGOCIOS GLOBALES",
-    "label": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA"
+    "label": "NEGOCIOS GLOBALES / ADMON DE NEGOCIOS INTERNACIONALES"
   },
   {
     "value": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS",
-    "label": "ARQUITECTURA"
+    "label": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS"
   },
   {
     "value": "PEDAGOGÍA",
-    "label": "ADMINISTRACIÓN DE LA HOSPITALIDAD"
+    "label": "PEDAGOGÍA"
   },
   {
     "value": "PSICOLOGÍA",
-    "label": "ADMINISTRACIÓN DE EMPRESAS"
+    "label": "PSICOLOGÍA"
   },
   {
     "value": "RELACIONES INTERNACIONALES",
-    "label": "ACTUARÍA"
+    "label": "RELACIONES INTERNACIONALES"
   },
   {
     "value": "SUSTENTABILIDAD AMBIENTAL",
-    "label": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS / DISEÑO INDUSTRIAL"
+    "label": "SUSTENTABILIDAD AMBIENTAL"
   }
 ]
