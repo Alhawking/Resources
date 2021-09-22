@@ -1,95 +1,71 @@
 [
   {
     "value": "ACTUARÍA",
-    "label": "ACTUARÍA"
+    "label": "SUSTENTABILIDAD AMBIENTAL"
   },
   {
     "value": "ADMINISTRACIÓN DE EMPRESAS",
-    "label": "ADMINISTRACIÓN DE EMPRESAS"
+    "label": "RELACIONES INTERNACIONALES"
   },
   {
     "value": "ADMINISTRACIÓN DE LA HOSPITALIDAD",
-    "label": "ADMINISTRACIÓN DE LA HOSPITALIDAD"
+    "label": "PSICOLOGÍA"
   },
   {
     "value": "ARQUITECTURA",
-    "label": "ARQUITECTURA"
+    "label": "PEDAGOGÍA"
   },
   {
     "value": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA",
-    "label": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA"
+    "label": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS"
   },
   {
     "value": "CIENCIAS TEOLÓGICAS",
-    "label": "CIENCIAS TEOLÓGICAS"
+    "label": "NEGOCIOS GLOBALES / ADMON DE NEGOCIOS INTERNACIONALES"
   },
   {
     "value": "COMUNICACIÓN",
-    "label": "COMUNICACIÓN"
+    "label": "MERCADOTECNIA"
   },
   {
     "value": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS",
-    "label": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS"
+    "label": "LITERATURA LATINOAMERICANA"
   },
   {
     "value": "DERECHO",
-    "label": "DERECHO"
+    "label": "INGENIERÍA QUÍMICA"
   },
   {
     "value": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA",
-    "label": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA"
-  },
-  {
-    "value": "DISEÑO DE INDUMENTARIA Y MODA",
-    "label": "DISEÑO DE INDUMENTARIA Y MODA"
+    "label": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS"
   },
   {
     "value": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES",
-    "label": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES"
-  },
-  {
-    "value": "DISEÑO DE PRODUCTOS Y ENTORNOS TECNOLÓGICOS",
-    "label": "DISEÑO DE PRODUCTOS Y ENTORNOS TECNOLÓGICOS"
+    "label": "INGENIERÍA MECÁNICA Y ELÉCTRICA"
   },
   {
     "value": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS",
-    "label": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS"
-  },
-  {
-    "value": "DISEÑO GRÁFICO",
-    "label": "DISEÑO GRÁFICO"
-  },
-  {
-    "value": "DISEÑO INDUSTRIAL",
-    "label": "DISEÑO INDUSTRIAL"
-  },
-  {
-    "value": "DISEÑO INTERACTIVO",
-    "label": "DISEÑO INTERACTIVO"
+    "label": "INGENIERÍA INDUSTRIAL"
   },
   {
     "value": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA",
-    "label": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA"
-  },
-  {
-    "value": "DISEÑO TEXTIL",
-    "label": "DISEÑO TEXTIL"
+    "label": "INGENIERÍA FÍSICA"
   },
   {
     "value": "ECONOMÍA",
-    "label": "ECONOMÍA"
+    "label": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES"
   },
   {
     "value": "FILOSOFÍA",
-    "label": "FILOSOFÍA"
+    "label": "INGENIERÍA DE ALIMENTOS"
   },
   {
     "value": "FINANZAS",
-    "label": "FINANZAS"
+    "label": "INGENIERÍA CIVIL"
   },
   {
     "value": "HISTORIA",
-    "label": "HISTORIA"
+    "label": "INGENIERÍA BIOMÉDICA"
   },
   {
     "value": "HISTORIA DEL ARTE",
@@ -97,70 +73,70 @@
   },
   {
     "value": "INGENIERÍA BIOMÉDICA",
-    "label": "INGENIERÍA BIOMÉDICA"
+    "label": "HISTORIA"
   },
   {
     "value": "INGENIERÍA CIVIL",
-    "label": "INGENIERÍA CIVIL"
+    "label": "FINANZAS"
   },
   {
     "value": "INGENIERÍA DE ALIMENTOS",
-    "label": "INGENIERÍA DE ALIMENTOS"
+    "label": "FILOSOFÍA"
   },
   {
     "value": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES",
-    "label": "INGENIERÍA EN TECNOLOGÍAS DE CÓMPUTO Y TELECOMUNICACIONES"
+    "label": "ECONOMÍA"
   },
   {
     "value": "INGENIERÍA FÍSICA",
-    "label": "INGENIERÍA FÍSICA"
+    "label": "DISEÑO SENSORIAL Y DIRECCIÓN CREATIVA / DISEÑO GRÁFICO"
   },
   {
     "value": "INGENIERÍA INDUSTRIAL",
-    "label": "INGENIERÍA INDUSTRIAL"
+    "label": "DISEÑO DE MODA Y TEXTILES SOSTENIBLES"
   },
   {
     "value": "INGENIERÍA MECÁNICA Y ELÉCTRICA",
-    "label": "INGENIERÍA MECÁNICA Y ELÉCTRICA"
+    "label": "DISEÑO DE FICCIONES Y NARRATIVAS TRANSMEDIA / DISEÑO INTERACTIVO"
   },
   {
     "value": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS",
-    "label": "INGENIERÍA MECATRÓNICA Y SISTEMAS CIBERFÍSICOS"
+    "label": "DERECHO"
   },
   {
     "value": "INGENIERÍA QUÍMICA",
-    "label": "INGENIERÍA QUÍMICA"
+    "label": "CONTADURÍA Y DIRECCIÓN DE NEGOCIOS"
   },
   {
     "value": "LITERATURA LATINOAMERICANA",
-    "label": "LITERATURA LATINOAMERICANA"
+    "label": "COMUNICACIÓN"
   },
   {
     "value": "MERCADOTECNIA",
-    "label": "MERCADOTECNIA"
+    "label": "CIENCIAS TEOLÓGICAS"
   },
   {
     "value": "NEGOCIOS GLOBALES",
-    "label": "NEGOCIOS GLOBALES"
+    "label": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA"
   },
   {
     "value": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS",
-    "label": "NUTRICIÓN Y CIENCIA DE LOS ALIMENTOS"
+    "label": "ARQUITECTURA"
   },
   {
     "value": "PEDAGOGÍA",
-    "label": "PEDAGOGÍA"
+    "label": "ADMINISTRACIÓN DE LA HOSPITALIDAD"
   },
   {
     "value": "PSICOLOGÍA",
-    "label": "PSICOLOGÍA"
+    "label": "ADMINISTRACIÓN DE EMPRESAS"
   },
   {
     "value": "RELACIONES INTERNACIONALES",
-    "label": "RELACIONES INTERNACIONALES"
+    "label": "ACTUARÍA"
   },
   {
     "value": "SUSTENTABILIDAD AMBIENTAL",
-    "label": "SUSTENTABILIDAD AMBIENTAL"
+    "label": "DISEÑO DE PRODUCTOS Y EXPERIENCIAS / DISEÑO INDUSTRIAL"
   }
 ]
