@@ -1,0 +1,13 @@
+  {
+    "FirstName": "FirstName",
+    "LastName": "LastName",
+    "Email": "Email",
+    "MobilePhone": "MobilePhone",
+    "UIA_Otra_Escuela_Procedencia__c": "Otro_Colegio__c",
+    "Grado__c": "Grado1__c",
+    "UIA_Texto_Programa_interes__c": "Primary_Academic_Program__c",
+    "UIA_Medio_Preferencia_Contacto__c": "Medio_de_contacto__c",
+    "UIA_Aviso_Privacidad__c": "Acepta_Aviso_de_privacidad__c",
+    "Promedio_Prepa__c": "Promedio_de_prepa__c",
+    "UIA_Otra_Empresa__c": "Empresa_en_la_que_trabaja__c"
+  }
