@@ -5508,6 +5508,10 @@
     "label": "CBTIS 120"
   },
   {
+    "value": "CBTIS 120",
+    "label": "CBTIS 120"
+  },
+  {
     "value": "CBTIS 13",
     "label": "CBTIS 13"
   },
@@ -8388,8 +8392,8 @@
     "label": "COLEGIO DE BACHILLERES"
   },
   {
-    "value": "COLEGIO DE BACHILLERS CENTRO",
-    "label": "COLEGIO DE BACHILLERS CENTRO"
+    "value": ".COLEGIO DE BACHILLERS CENTRO",
+    "label": ".COLEGIO DE BACHILLERS CENTRO"
   },
   {
     "value": "COLEGIO DE BACHILLERES",
@@ -20636,8 +20640,8 @@
     "label": "INSTITUTO DE ESTUDIOS SUPERIORES DE OAXACA"
   },
   {
-    "value": "COLEGIO DE BACHILLERES CENTRO RECONOCIDO CER/26/PE",
-    "label": "COLEGIO DE BACHILLERES CENTRO RECONOCIDO CER/26/PE"
+    "value": "COLEGIO DE BACHILLERES CENTRO   RECONOCIDO CER/26/PE",
+    "label": "COLEGIO DE BACHILLERES CENTRO   RECONOCIDO CER/26/PE"
   },
   {
     "value": "ST. CLARE'S OXFORD",
@@ -33868,35 +33872,95 @@
     "label": "CENTRO UNIVERSITARIO ANGLO MEXICANO CAMPUS MERIDA"
   },
   {
+    "value": "INTERNATIONAL AMERICAN SCHOOL OF CANCUN",
+    "label": "INTERNATIONAL AMERICAN SCHOOL OF CANCUN"
+  },
+  {
     "value": "INSTITUTO PIAGET DE LOS MOCHIS",
     "label": "INSTITUTO PIAGET DE LOS MOCHIS"
   },
   {
-    "value": "CENTRO ESCOLAR PROFESOR ENRIQUE MARTÍNEZ MÁRQUEZ",
-    "label": "CENTRO ESCOLAR PROFESOR ENRIQUE MARTÍNEZ MÁRQUEZ"
+    "value": "CENTRO DE BACHILLERATO TECNOLÓGICO FORESTAL NO.4",
+    "label": "CENTRO DE BACHILLERATO TECNOLÓGICO FORESTAL NO.4"
   },
   {
-    "value": "PREPANET PREPA EN LÍNEA DEL ITESM",
-    "label": "PREPANET PREPA EN LÍNEA DEL ITESM"
+    "value": "COLEGIO SAN FELIPE DE JESÚS",
+    "label": "COLEGIO SAN FELIPE DE JESÚS"
   },
   {
-    "value": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
-    "label": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS"
+    "value": "CECYTEG EMSAD CERANO GUANAJUATO",
+    "label": "CECYTEG EMSAD CERANO GUANAJUATO"
   },
   {
-    "value": "CONALEP ATIZAPÁN II",
-    "label": "CONALEP ATIZAPÁN II"
+    "value": "COLEGIO MANO AMIGA CHALCO",
+    "label": "COLEGIO MANO AMIGA CHALCO"
   },
   {
-    "value": "COLEGIO HAMPTON SCHOOL DE CHIAPAS",
-    "label": "COLEGIO HAMPTON SCHOOL DE CHIAPAS"
+    "value": "CENTRO ESCOLAR CATÓLICO ALBERTO MASFERRER (EL SALVADOR)",
+    "label": "CENTRO ESCOLAR CATÓLICO ALBERTO MASFERRER (EL SALVADOR)"
   },
   {
-    "value": "CENTRO UNIVERSITARIO FRESNOS",
-    "label": "CENTRO UNIVERSITARIO FRESNOS"
+    "value": "COLEGIO MÉXICO DEL SURESTE",
+    "label": "COLEGIO MÉXICO DEL SURESTE"
   },
   {
     "value": "NINGUNO",
     "label": "NINGUNO"
+  },
+  {
+    "value": "PREPA IBERO MÉRIDA",
+    "label": "PREPA IBERO MÉRIDA"
+  },
+  {
+    "value": "ST JHONS CANCÚN",
+    "label": "ST JHONS CANCÚN"
+  },
+  {
+    "value": "COLEGIO MADISON MÉRIDA",
+    "label": "COLEGIO MADISON MÉRIDA"
+  },
+  {
+    "value": "INSTITUTO GARDNER COZUMEL",
+    "label": "INSTITUTO GARDNER COZUMEL"
+  },
+  {
+    "value": "MODERN ACADEMY CANCÚN",
+    "label": "MODERN ACADEMY CANCÚN"
+  },
+  {
+    "value": "COLEGIO ÁLAMOS CANCÚN",
+    "label": "COLEGIO ÁLAMOS CANCÚN"
+  },
+  {
+    "value": "COLEGIO PAPALOTE PLAYA DEL CARMEN",
+    "label": "COLEGIO PAPALOTE PLAYA DEL CARMEN"
+  },
+  {
+    "value": "ALIANZ COMUNIDAD ESTUDIANTIL CAMPUS MÉRIDA",
+    "label": "ALIANZ COMUNIDAD ESTUDIANTIL CAMPUS MÉRIDA"
+  },
+  {
+    "value": "HIGH SCHOOL THOMAS JEFFERSON ESMERALDA",
+    "label": "HIGH SCHOOL THOMAS JEFFERSON ESMERALDA"
+  },
+  {
+    "value": "PEDREGAL ACADEMY",
+    "label": "PEDREGAL ACADEMY"
+  },
+  {
+    "value": "NORTHRIDGE SCHOOL MEXICO",
+    "label": "NORTHRIDGE SCHOOL MEXICO"
+  },
+  {
+    "value": "OLAMÍ ORT",
+    "label": "OLAMÍ ORT"
+  },
+  {
+    "value": "THE WORKSHOP CAMPUS MÉRIDA",
+    "label": "THE WORKSHOP CAMPUS MÉRIDA"
+  },
+  {
+    "value": "THE WORKSHOP CAMPUS KOMCHEN",
+    "label": "THE WORKSHOP CAMPUS KOMCHEN"
   }
 ]
