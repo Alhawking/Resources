@@ -8392,10 +8392,6 @@
     "label": "COLEGIO DE BACHILLERES"
   },
   {
-    "value": ".COLEGIO DE BACHILLERS CENTRO",
-    "label": ".COLEGIO DE BACHILLERS CENTRO"
-  },
-  {
     "value": "COLEGIO DE BACHILLERES",
     "label": "COLEGIO DE BACHILLERES"
   },
@@ -33982,5 +33978,9 @@
   {
     "value": "PREPA LIKS",
     "label": "PREPA LIKS"
+  },
+  {
+    "value": "PREPA IBERO TLAXCALA",
+    "label": "PREPA IBERO TLAXCALA"
   }
 ]
